@@ -7,6 +7,7 @@ public class PS {
 
 	public void doThis() {
 		System.out.println("I'm here!");
+		System.out.println("I'm here too!");
 	}
 	
 	@BeforeMethod
